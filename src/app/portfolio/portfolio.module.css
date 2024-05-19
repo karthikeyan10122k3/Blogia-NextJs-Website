@@ -1,0 +1,14 @@
+
+.bgroundIllustration {
+  background-image: url("/illustration.png");
+  height: 400px;
+}
+.bgroundApps {
+  background-image: url("/apps.jpg");
+  height: 400px;
+}
+
+.bgroundWebsites {
+  background-image: url("/websites.jpg");
+  height: 400px;
+}
